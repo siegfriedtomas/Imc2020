@@ -5,18 +5,4 @@ This code has been written in Spanish and using the Metric System, if you are fr
 
 I recommend using a "Lbs to Kg" and "Feet and Inches to Mts" conversors.
 
-Translation:
-"Nombre" means Name.
-"Apellido" means Last name.
-"Edad" means Age.
-"Peso" means Weight.
-"Altura" means Height.
-"Dirección" means Adress.
-"Teléfono" means Phone number.
-
-"Bajo Peso" means Underweight. 
-"Peso Normal" means Normal weight. 
-"Sobrepeso" means Overweight.
-"Obesidad" means Obesity.  
-
 Colaboradores: Cola274 - brunobenedetti - Lennon2727
